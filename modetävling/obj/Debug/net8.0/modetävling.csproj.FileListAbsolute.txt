@@ -1,0 +1,14 @@
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\bin\Debug\net8.0\modetävling.exe
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\bin\Debug\net8.0\modetävling.deps.json
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\bin\Debug\net8.0\modetävling.runtimeconfig.json
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\bin\Debug\net8.0\modetävling.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\bin\Debug\net8.0\modetävling.pdb
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.AssemblyInfoInputs.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.AssemblyInfo.cs
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.csproj.CoreCompileInputs.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\refint\modetävling.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.pdb
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.genruntimeconfig.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\ref\modetävling.dll
