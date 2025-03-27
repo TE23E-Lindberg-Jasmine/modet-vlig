@@ -12,3 +12,4 @@ c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\ne
 c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.pdb
 c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.genruntimeconfig.cache
 c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\ref\modetävling.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\modetävlig\modetävling\obj\Debug\net8.0\modetävling.sourcelink.json
