@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj": {}
+    "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj": {
+    "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj",
+        "projectUniqueName": "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj",
         "projectName": "modetävling",
-        "projectPath": "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj",
+        "projectPath": "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\modetävling.csproj",
         "packagesPath": "C:\\Users\\Jasmine.lindberg1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\obj\\",
+        "outputPath": "C:\\Users\\Jasmine.lindberg1\\Documents\\Prog1\\modetävlig\\modetävling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
